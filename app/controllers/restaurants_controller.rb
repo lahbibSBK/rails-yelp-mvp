@@ -9,6 +9,9 @@ class RestaurantsController < ApplicationController
     @restaurant = Restaurant.new
   end
 
+  def edit
+  end
+
   def show
   end
 
